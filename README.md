@@ -1,2 +1,2 @@
 # Python-Practice
-##Codechef and Hackerrank prctice
+##Codechef and Hackerrank practice
