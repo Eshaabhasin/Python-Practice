@@ -6,3 +6,9 @@ for i in range(t):
         print(X)
     else:
         print(X-10)
+        
+https://www.codechef.com/problems/TAXSAVING
+t=int(input())
+for i in range(t):
+    X,Y=map(int,input().split())
+    print(X-Y)
